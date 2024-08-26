@@ -50,5 +50,5 @@ g++ -o hangman hangman.cpp
 <p>Contributions are welcome! If you find any bugs or have suggestions for improvements, please feel free to create an issue or submit a pull request.</p>
 
 <p align="center">
-  <a href="https://github.com/your-username/hangman-periodic-table"><strong>View on GitHub</strong></a>
+  <a href="https://github.com/DhruvaSingh12/Hangman"><strong>View on GitHub</strong></a>
 </p>
